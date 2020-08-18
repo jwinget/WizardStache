@@ -17,7 +17,8 @@ The overall user interface looks like this (with annotations)
 You can toggle most of the UI off or on by clicking on the anvil in the upper left.
 
 ## Basic controls
-* Move the map by right-clicking and dragging
+* Pan the map by holding the right mouse button and dragging
+  - On a Mac without a mouse use the ⌘ button and arrow keys
 * Zoom with the mouse wheel
 * Select your token with left-click, when the Player --> selection control is checked ![player select](img/player_select.png)
 * Move the selected token with the arrow keys

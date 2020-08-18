@@ -23,9 +23,76 @@ You can toggle most of the UI off or on by clicking on the anvil in the upper le
 * Right-click your token to see options
 * Target another token by choosing the Player --> target control ![player target](img/player_target.png) and left-clicking the token you wish to target. 4 triangles should appear around it.
 
+## Importing & Updating your character sheet
+
+### Importing
+
+Assuming your character sheet is on D&D Beyond and you are using the Beyond20 browser extension:
+
+1. Double-click your token to open the Foundry character sheet
+2. Click the `B` button to the left of your character's name ![b20 init](img/b20_charsheet_init.PNG).
+3. In the URL field, paste the link to your character sheet from D&D Beyond
+4. Close this window
+5. Hold `Alt` and left-click the `B` button again. This should open a window with a bunch of JSON data
+6. Copy all of the JSON data and close the window
+7. Left-click the `B` button again
+8. Paste the JSON data you copied into the JSON field
+9. The import window should close and your character stats will be updated
+
+### Updating
+
+#### If leveling up
+
+Start from step 5 above for importing, however before you paste the JSON data in, uncheck everything except "Classes", "Features", and "Spells"
+
+#### If adding new gear or inventory
+
+Start from step 5 above for importing, however before you paste the JSON data in, uncheck "Classes", "Features", and "Spells" and check "Import new items only." under "Update configuration"
+
+#### If modifying gear
+
+Similar to when adding new gear, but you will leave "Import new items only" unchecked. You may need to reassign the icon for this gear.
+
 ## Scenes
 
 The scenes available to you are shown in a bar across the top, just to the right of the anvil. The small colored circle with the first letter of your player name indicates which scene you are currently on. Clicking on one of the scene boxes will take you to that scene.
 
 `Note: you must also have "visibility" in the new scene, either via a token or scene settings. This is controlled by the GM`
 
+## Controls
+The top-level controls shown just below the anvil and their sub-controls are, from top to bottom:
+* Player
+  - Select
+  - Target
+  - Measure
+  - X-card (safety word)
+* Measurement
+  - Circle
+  - Cone
+  - Rectangle
+  - Ray
+* Drawing
+  - Select
+  - Rectangle
+  - Circle
+  - Polygon
+  - Freehand
+  - Text
+  - Configuration
+* Landmarks
+  - Select
+  - Toggle
+* Dice roller
+
+## Menus
+
+The top right menus, in order, are:
+* Chat
+* Combat
+* Actors
+* Items
+* Journal
+* Tables
+* Playlists
+* Compendia
+* Settings

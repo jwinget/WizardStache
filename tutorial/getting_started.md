@@ -22,6 +22,7 @@ You can toggle most of the UI off or on by clicking on the anvil in the upper le
 * Double-click your token to open your character sheet
 * Right-click your token to see options
 * Target another token by choosing the Player --> target control ![player target](img/player_target.png) and left-clicking the token you wish to target. 4 triangles should appear around it.
+* Make rolls using the HUD. This will be covered in more detail later
 
 ## Importing & Updating your character sheet
 
@@ -52,6 +53,20 @@ Start from step 5 above for importing, however before you paste the JSON data in
 #### If modifying gear
 
 Similar to when adding new gear, but you will leave "Import new items only" unchecked. You may need to reassign the icon for this gear.
+
+## Combat
+
+Join combat by selecting "Toggle Combat State" from the "Utility" menu in the HUD. ![combat toggle](img/combat_toggle.png)
+
+Next, select the combat menu and click the d20 icon to the right of your character to roll initiative.
+
+![roll initiative](img/roll_initiative.png)
+
+When it is your turn, a message will be sent to the chat and your token will have an orange rune displayed around it.
+
+![combat turn](img/combat_turn.png)
+
+Take your actions (making sure to target when appropriate). When done, click the "End Turn" button at the bottom of the combat window.
 
 ## Scenes
 

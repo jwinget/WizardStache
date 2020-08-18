@@ -8,6 +8,8 @@ Select your character and click "Join Game Session". There is no access key for 
 
 Once you log in you will likely see a pop-up indicating that the Beyond20 extension is not automatically loaded. In the "addons" area of your browser (to the right of the address bar in Chrome), click the icon that looks like a red d20 with a white `B` inside of it ![Beyond20 extension icon](img/beyond_20_icon.png), and the popup should go away. Click again in the main window to dismiss the Beyond20 pop-up. You are now connected to D&D Beyond.
 
+> Note: In my browser the Beyond20 extension icon was hidden by default. To show it, click the puzzle icon on the right of the extensions area, then select the pin next to the Beyond20 extension
+
 The overall user interface looks like this (with annotations)
 
 ![Annotated UI](img/annotated_ui.PNG)
@@ -60,6 +62,8 @@ Join combat by selecting "Toggle Combat State" from the "Utility" menu in the HU
 
 Next, select the combat menu and click the d20 icon to the right of your character to roll initiative.
 
+> Note: It may be convenient to pop-out the combat tracker by right-clicking its menu icon (the fist)
+
 ![roll initiative](img/roll_initiative.png)
 
 When it is your turn, a message will be sent to the chat and your token will have an orange rune displayed around it.
@@ -72,7 +76,7 @@ Take your actions (making sure to target when appropriate). When done, click the
 
 The scenes available to you are shown in a bar across the top, just to the right of the anvil. The small colored circle with the first letter of your player name indicates which scene you are currently on. Clicking on one of the scene boxes will take you to that scene.
 
-`Note: you must also have "visibility" in the new scene, either via a token or scene settings. This is controlled by the GM`
+> Note: you must also have "visibility" in the new scene, either via a token or scene settings. This is controlled by the GM
 
 ## Controls
 The top-level controls shown just below the anvil and their sub-controls are, from top to bottom:

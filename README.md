@@ -9,6 +9,7 @@ Current modules (player-focused):
 * [Easy Target](https://bitbucket.org/Fyorl/easy-target)
 * [Item Containers](https://gitlab.com/tposney/itemcollection)
 * [Minor Quality of Life Improvements](https://gitlab.com/tposney/minor-qol)
+* [Ping](https://gitlab.com/foundry-azzurite/pings/-/blob/master/README.md)
 * [Polyglot](https://github.com/kakaroto/fvtt-module-polyglot)
 * [PopOut!](https://github.com/kakaroto/fvtt-module-popout)
 * [Simple Dice Roller](https://github.com/jopeek/fvtt-simple-dice-roller/)
@@ -20,6 +21,7 @@ Current modules (player-focused):
 * [X-Card](https://github.com/Sk1mble/XCard)
 
 Current modules (GM-focused):
+* [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls)
 * [Better Ambient Loop](https://github.com/BlitzKraig/fvtt-BetterAmbientLoop)
 * [DungeonDraft Importer](https://github.com/moo-man/FVTT-DD-Import)
 * [Chat Damage Buttons - Beyond20 Edition](https://gitlab.com/Ionshard/foundry-vtt-chatdamagebuttons-beyond20)

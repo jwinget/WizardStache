@@ -37,3 +37,5 @@ Current modules (GM-focused):
 * [Grid Scale Menu](https://github.com/UberV/scaleGrid/)
 * [Sane Magical Item Prices Compendium](https://gitlab.com/fohswe/smip-compendium)
 * [VTTA - D&D Beyond Integration](https://www.vttassets.com/assets/vtta-dndbeyond)
+* [VTTA - Iconizer](https://www.vttassets.com/assets/vtta-iconizer)
+* [VTTA - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer)

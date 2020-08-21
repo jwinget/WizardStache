@@ -4,6 +4,7 @@ Info and useful scripts for our Foundry VTT/D&amp;D 5e setup
 Current modules (player-focused):
 * [Better Rolls for 5e](https://github.com/RedReign/FoundryVTT-BetterRolls5e)
 * [Beyond 20 companion module](https://beyond20.here-for-more.info/)
+* [Dice Tray](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator)
 * [Display Mode](https://github.com/syl3r86/displaymode)
 * [Dynamic Effects](https://gitlab.com/tposney/dynamiceffects)
 * [Easy Target](https://bitbucket.org/Fyorl/easy-target)

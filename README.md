@@ -22,8 +22,10 @@ Current modules (player-focused):
 * [X-Card](https://github.com/Sk1mble/XCard)
 
 Current modules (GM-focused):
+* [About Time](https://gitlab.com/tposney/about-time)
 * [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls)
 * [Better Ambient Loop](https://github.com/BlitzKraig/fvtt-BetterAmbientLoop)
+* [Calendar/Weather](https://github.com/DasSauerkraut/calendar-weather)
 * [DungeonDraft Importer](https://github.com/moo-man/FVTT-DD-Import)
 * [Chat Damage Buttons - Beyond20 Edition](https://gitlab.com/Ionshard/foundry-vtt-chatdamagebuttons-beyond20)
 * [Darker Vision for 5e](https://github.com/Voldemalort/darker-vision-for-5e)
